@@ -116,7 +116,7 @@ body {
 }
 
 .button::before {
-    content: url("../images/icon-cart.svg");
+    content: url('../images/icon-cart.svg');
 }
 
 .button:hover {
