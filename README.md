@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Design Mobile preview](./screeshots/Mobile-preview.png)
-![Design Desktop preview](./screeshots/Desktop-preview.png)
-![Active state preview](./screeshots/Active-state.png)
+![Design Mobile preview](./screenshots/Mobile-preview.png)
+![Design Desktop preview](./screenshot/Desktop-preview.png)
+![Active state preview](./screenshot/Active-state.png)
 
 ### Links
 
