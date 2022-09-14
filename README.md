@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design Mobile preview](./screenshots/Mobile-preview.png)
+![Design Mobile preview](./screenshot/Mobile-preview.png)
 ![Design Desktop preview](./screenshot/Desktop-preview.png)
 ![Active state preview](./screenshot/Active-state.png)
 
